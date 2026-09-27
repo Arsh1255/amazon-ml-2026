@@ -1,6 +1,7 @@
+<div align="center">
 # 🚀 Amazon ML Challenge 2026
 
-<div align="center">
+
 
 ## Business Entity Resolution
 
