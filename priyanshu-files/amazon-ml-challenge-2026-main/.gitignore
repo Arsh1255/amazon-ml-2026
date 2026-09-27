@@ -1,0 +1,38 @@
+# Raw datasets and smoke test outputs
+dataset/
+smoke_output/
+
+# Submission archives
+*.tar.gz
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+scratch/
+tmp/
+temp/
+*.tmp
+*.log
